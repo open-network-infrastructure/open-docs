@@ -1,10 +1,6 @@
-# Open Network Infrastructure Association
-## Open Docs
+# Open documentation
 
-This is a collection of open documents of the association.
-
-## Homepage
-Please also visit the [https://opennetworkinfrastructure.org/](homepage) of the association.
+The [Open Network Infrastructure Association](https://opennetworkinfrastructure.org/) aims at publishing as much of its documentation under a permissive open source license. This repository is a collection of all these documents.
 
 ## Licence
-Unless stated otherwise, all documents are made available under the [Creative Commons ShareAlike 4.0 License (CC-BY-SA)](LICENSE).
+All documents are made available under the [Creative Commons ShareAlike 4.0 License (CC-BY-SA)](LICENSE), unless stated otherwise.
