@@ -1,4 +1,5 @@
-# Open Docs: Open Network Infrastructure Association
+# Open Network Infrastructure Association
+## Open Docs
 
 This is a collection of open documents of the association.
 
